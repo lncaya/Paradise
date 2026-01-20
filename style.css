@@ -14,3 +14,7 @@ a {
   color: #444;
   text-decoration: none;
 }
+body.dark {
+  background: #121212;
+  color: #eee;
+}
